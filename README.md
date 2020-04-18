@@ -12,4 +12,4 @@ or  up to 3  SSR with  with much lower heztz   -- generally  1/4 works the best 
 
 
 
-![espfirmware]( https://github.com/krywenko/energy-monitor-and-diverter-espeasy/blob/master/simplescreenrecorder-111.mp4)
+![movie of energy monitor  sending data to espeasy firmware -- click raw to view ]( https://github.com/krywenko/energy-monitor-and-diverter-espeasy/blob/master/simplescreenrecorder-111.mp4)
